@@ -1,0 +1,5 @@
+# THIS IS AN EXAMPLE FILE. DELETE ALL COMMENTS, ETC.
+# File format: each line has one essid, password combination
+# <essid>:<password>
+# Yeah i know, plaintext is bad but this is a thing on the internet and thus an IoT device, so I get a pass for crappy security.
+# RENAME THIS FILE TO "networks.txt"
